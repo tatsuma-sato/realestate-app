@@ -4,7 +4,7 @@ import Link from "next/link";
 import { FaBed, FaBath } from "react-icons/fa";
 import { BsGridFill } from "react-icons/bs";
 import { GoVerified } from "react-icons/go";
-import defaultImage from "../assets/house.jpeg";
+import defaultImage from "../assets/images/house.jpeg";
 
 import millify from "millify";
 
